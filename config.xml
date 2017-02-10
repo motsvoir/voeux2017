@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="fr.bootz.voeux2017" version="1.0.0" width="800" height="600" viewmodes="windowed fullscreen">
+<content src="index.html"/>
+<icon src="icon.png"/>
+<name short="voeux2017">voeux 2017</name>
+<description>voeux 2017</description>
+<author href="http://www.bootz.fr" email="troubrul@free.fr">Philippe</author>
+<licence>Copyright (c) 2017 Philippe.</licence>
+<access origin="*" />
+<preference name="Fullscreen" value="true" />
+<preference name="BackgroundColor" value="0xfffef9ea"/>
+<preference name="Orientation" value="default" />
+</widget>
